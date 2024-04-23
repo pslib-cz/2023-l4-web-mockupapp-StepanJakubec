@@ -20,6 +20,12 @@ tlačítka ![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJaku
 ### Font ###
 Roboto
 
+## Co se v aplikaci vyskytuje (web-design) ##
+* Navigační menu: Navigační menu odkazuje na stránky jako jsou "events" nebo "giveaways". V mobilní verzi se menu změní na hamburger menu.
+* Flexbox/Grid: Flexbox se využívá primárně k tvorbě karet akcí. Zde se poocí flexu zarovnávají prvky, například ve footeru (justify-content: space-between). Grid se využívá v desktopové verzi na stránce events. Zde díky němu vzniká mřížka z karet akcí o velikosti 3x3. 
+* Pozicování: Pozicování se využívá pro vytvoření textu, který překrývá obrázek. To můžeme vidět například na stránce opened event. Zde se pomocí absolutního a relativního pozicování vytvoří text, který překrývá obrázek.
+* Slider/Carousel: Na úvodní stránce v desktopové verzi se využívá slider. Ten posouvá nově přidané akce a umožňuje tak ukázat nové. Slider můžeme implementovat pomocí javascript knihoven
+
 ## Jak aplikace funguje ##
 Aplikace slouží pořadatelům akcí jako platforma, na které mohou inzerovat svůj event. Pořadatelé kontaktují tým Gofestu a řeknou jim o jejich akci. Důležité je datum, čas, místo a cena vstupného. Grafiku i textaci si zajišťuje pořadatel akce. Následně se akce nahraje do aplikace Gofest, aby ji mohli vidět uživatelé. Gofest si bere provize z prodeje online vstupenek. Kromě prodeje vstupenek nabízí aplikace i možnost soutěžit o vstupenky. Tímto si získává sledující a buduje povědomí. Soutěže se lidé zúčastí tak, že začnou sledovat sociální sítě Gofestu. Soutěže a jejich grafiku si tvoří sám.
 
