@@ -14,6 +14,7 @@ Aplikace slouží k vyhledání událostí ve zvoleném okolí v nejbližší do
 tlačítka ![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJakubec/assets/107682109/c4313908-df33-43e4-b702-3af6f6df6d56) barevný přechod ![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJakubec/assets/107682109/065736c0-07e2-4152-9c2a-bc806b52f2a1)
 
 ### Logo ###
+<img width="424" alt="image" src="https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJakubec/assets/107682109/6afaeaa3-5d4e-429a-bd0b-ed9d0d532960">
 
 
 ### Font ###
