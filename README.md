@@ -9,6 +9,8 @@ Aplikace slouží k vyhledání událostí ve zvoleném okolí v nejbližší do
 
 ## Návrh ##
 ![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJakubec/assets/107682109/0ef7e181-e0e4-4ec8-8fd6-4733a2187c95)
+<img width="491" alt="image" src="https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJakubec/assets/107682109/eef7a3d1-ecb8-4bbd-a8ff-392ae71a1c06">
+
 
 ### Barvy ###
 tlačítka ![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJakubec/assets/107682109/c4313908-df33-43e4-b702-3af6f6df6d56) barevný přechod ![image](https://github.com/pslib-cz/2023-l4-web-mockupapp-StepanJakubec/assets/107682109/065736c0-07e2-4152-9c2a-bc806b52f2a1)
